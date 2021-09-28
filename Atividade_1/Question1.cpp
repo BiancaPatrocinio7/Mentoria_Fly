@@ -4,22 +4,6 @@ using namespace std;
 int main()
 {
 
-    int lapis1 = 10;
-    int caneta1 = 20;
-
-    int lapis2;
-    int caneta2;
-
-    lapis2 = lapis1;
-    caneta2 = caneta1;
-
-    lapis1 = caneta2;
-    caneta1 = lapis2;
-
-   // lapis1 = caneta1;
-   // caneta1 = lapis1;
-
-
     C = A; // 10 //
     D = B; //20
 
