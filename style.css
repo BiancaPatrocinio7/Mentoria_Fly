@@ -1,0 +1,116 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Karla:wght@300&family=Merriweather:wght@300&display=swap');
+
+body {
+    width: 100%;
+}
+
+body div {
+    width: 200px;
+    height: 200px;
+    
+}
+.conteudo{
+  
+    padding: 10% 10%;
+    display: flex;
+}
+.air{
+    font-family: 'Karla', sans-serif;
+    position: relative;
+    width: 40rem;
+    height: 9rem;
+    border-color: black;
+    
+    background-color: rgb(255, 255, 255);
+}
+.air > h4, h2{
+    padding-top: 0.5rem;
+    padding-left: 0.8rem;
+    margin: 0%;
+    width: 500px;
+    color: rgb(78, 78, 78);
+    
+    
+   
+}
+.air > p{
+    padding-left: 0.8rem;
+    padding-top: 12px;
+    color: rgb(97, 96, 96);
+}
+#cima{
+    
+    padding-left: 0.5rem;
+
+    
+}
+
+body{
+    background-color: rgb(243, 222, 229);
+}
+.box{
+    display: flex;
+    flex-direction:column;
+    gap: 2.5rem;
+    padding: 10% 30%;
+    
+    
+}
+#separa{
+    width: 400px;
+    height: 2rem;
+
+}
+.icone{
+    width: 15px;
+    height: 15px;
+    color: rgb(78, 78, 78);
+    font-family: 'Karla', sans-serif;
+    
+}
+
+.local{
+    padding-top: 10%;
+    margin: 0px;
+    width: 400px;
+}
+
+.about{
+    padding: 7% 10%;
+    margin-left: 5px;
+}
+.perfil{
+    border-radius: 100%;
+    width: 250px;
+    height: 250px;
+    object-fit: cover;
+    border-style: double;
+    
+    
+    
+
+}
+figcaption > p{
+   
+    margin: 0px 0px;
+    color: rgb(78, 78, 78);
+    font-family: 'Karla', sans-serif;
+}
+figcaption {
+    font-size: 20px;
+}
+#titulo{
+    width: 400px;
+    font-size: 40px;
+    margin: 0%;
+    color: rgb(31, 30, 30);
+
+}
+.seta{
+    width: 25px;
+    height: 25px;
+    position: absolute;
+    left: 90%;
+    top: 40%;
+}
