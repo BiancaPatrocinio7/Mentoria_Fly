@@ -1,3 +1,3 @@
 # Mentoria_Fly
-Aula de FlexBox, desenvolvimento do layout de um site.
+Desenvolvimento do layout de um site utilizando flex Box.
 ![alt text](https://i.imgur.com/tDtDoRD.png)
